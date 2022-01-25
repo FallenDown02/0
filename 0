@@ -1,3 +1,6 @@
+ proxies:
+  - {name: 103.228.230.38:6666, server: 103.228.230.38, port: 6666, type: ss, cipher: chacha20-ietf-poly1305, password: onlyforiplcgroup}
+  - {name: 🇭🇰 香港 中转, server: cn2.relay.starlink.st, port: 50102, type: ss, cipher: aes-128-gcm, password: 0f7fe3da-c8eb-48f8-a983-b10ed5edcab9}
   - {name: 本站地址:c7.gay/WhNsgd0M, server: 77.243.191.178, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 47GH3wQRw7V4Zhd35bFs}
   - {name: 小库订阅—快速的连接世界, server: 112.33.32.136, port: 10001, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: false}
   - {name: 电报群:t.me/cookpd, server: 37.120.137.82, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: EGTHtnGhcnggx5yBYSqS}
